@@ -1,6 +1,6 @@
 # Activity Classification from Triaxial Accelerometry in an Ambulatory Setting
 
-This repository contains code and data for classifying patient activity using 50Hz triaxial accelerometry sensor data collected from 23 healthy subjects performing five distinct activities: lying, sitting, standing, walking, and jogging. The data is complemented with heart rate data collected using an ambulatory device. The repository includes two classification models: a binary high/low activity classifier based on signal processing techniques and a multi-class convolutional neural network (CNN) model for classifying the five activities.
+This repository contains code and data for classifying patient activity using 50Hz triaxial accelerometry sensor data and heart rate data sampled at 1Hz, collected from 23 healthy subjects performing five distinct activities: lying, sitting, standing, walking, and jogging. The data is complemented with heart rate data collected using an ambulatory device. The repository includes two classification models: a binary high/low activity classifier based on signal processing techniques and a multi-class convolutional neural network (CNN) model for classifying the five activities.
 
 ### Data
 
