@@ -1,0 +1,5 @@
+HeartRate_787b41bd-8982-4da8-a126-3a18780f9e29 3 1 2394
+HeartRate_787b41bd-8982-4da8-a126-3a18780f9e29.dat 32 1(0)/No_Unit 32 0 24169463 54381 0 packet_id
+HeartRate_787b41bd-8982-4da8-a126-3a18780f9e29.dat 32 1(0)/ms 32 0 1 48767 0 time_index
+HeartRate_787b41bd-8982-4da8-a126-3a18780f9e29.dat 32 100(0)/bpm 32 0 8600 8596 0 heart_rate
+# Start time: 1682010480196 ms

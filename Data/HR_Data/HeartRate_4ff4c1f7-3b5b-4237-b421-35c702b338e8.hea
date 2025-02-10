@@ -1,0 +1,5 @@
+HeartRate_4ff4c1f7-3b5b-4237-b421-35c702b338e8 3 1 3622
+HeartRate_4ff4c1f7-3b5b-4237-b421-35c702b338e8.dat 32 1(0)/No_Unit 32 0 83937856 39386 0 packet_id
+HeartRate_4ff4c1f7-3b5b-4237-b421-35c702b338e8.dat 32 1(0)/ms 32 0 1 43713 0 time_index
+HeartRate_4ff4c1f7-3b5b-4237-b421-35c702b338e8.dat 32 100(0)/bpm 32 0 -40100 20388 0 heart_rate
+# Start time: 1682003308366 ms

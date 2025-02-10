@@ -1,0 +1,5 @@
+HeartRate_808c993b-1b3a-4c1c-a067-065e601cda71 3 1 1380
+HeartRate_808c993b-1b3a-4c1c-a067-065e601cda71.dat 32 1(0)/No_Unit 32 0 84870782 45524 0 packet_id
+HeartRate_808c993b-1b3a-4c1c-a067-065e601cda71.dat 32 1(0)/ms 32 0 1 35386 0 time_index
+HeartRate_808c993b-1b3a-4c1c-a067-065e601cda71.dat 32 100(0)/bpm 32 0 6600 33844 0 heart_rate
+# Start time: 1690391760134 ms

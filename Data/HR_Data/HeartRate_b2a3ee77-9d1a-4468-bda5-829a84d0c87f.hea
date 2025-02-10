@@ -1,0 +1,5 @@
+HeartRate_b2a3ee77-9d1a-4468-bda5-829a84d0c87f 3 1 3090
+HeartRate_b2a3ee77-9d1a-4468-bda5-829a84d0c87f.dat 32 1(0)/No_Unit 32 0 74387985 53117 0 packet_id
+HeartRate_b2a3ee77-9d1a-4468-bda5-829a84d0c87f.dat 32 1(0)/ms 32 0 1 57003 0 time_index
+HeartRate_b2a3ee77-9d1a-4468-bda5-829a84d0c87f.dat 32 100(0)/bpm 32 0 6800 47324 0 heart_rate
+# Start time: 1682089380329 ms

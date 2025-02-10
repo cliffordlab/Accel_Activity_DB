@@ -1,0 +1,5 @@
+HeartRate_ac1ca71c-3b87-491e-84b8-56a8ab93641b 3 1 1512
+HeartRate_ac1ca71c-3b87-491e-84b8-56a8ab93641b.dat 32 1(0)/No_Unit 32 0 46527390 19498 0 packet_id
+HeartRate_ac1ca71c-3b87-491e-84b8-56a8ab93641b.dat 32 1(0)/ms 32 0 1 29716 0 time_index
+HeartRate_ac1ca71c-3b87-491e-84b8-56a8ab93641b.dat 32 100(0)/bpm 32 0 0 27068 0 heart_rate
+# Start time: 1690228550315 ms

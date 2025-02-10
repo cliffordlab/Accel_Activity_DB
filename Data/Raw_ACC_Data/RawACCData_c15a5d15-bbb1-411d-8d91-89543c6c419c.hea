@@ -1,0 +1,11 @@
+RawACCData_c15a5d15-bbb1-411d-8d91-89543c6c419c 8 50 174781
+RawACCData_c15a5d15-bbb1-411d-8d91-89543c6c419c.dat 32 1(0)/No_Unit 32 0 75274836 47108 0 subject_id
+RawACCData_c15a5d15-bbb1-411d-8d91-89543c6c419c.dat 32 1(0)/No_Unit 32 0 14673583 34099 0 session_id
+RawACCData_c15a5d15-bbb1-411d-8d91-89543c6c419c.dat 32 1(0)/No_Unit 32 0 81221323 25243 0 packet_id
+RawACCData_c15a5d15-bbb1-411d-8d91-89543c6c419c.dat 32 1(0)/ms 32 0 1 30268 0 time_index
+RawACCData_c15a5d15-bbb1-411d-8d91-89543c6c419c.dat 32 100000(0)/g 32 0 -45850 64810 0 x
+RawACCData_c15a5d15-bbb1-411d-8d91-89543c6c419c.dat 32 100000(0)/g 32 0 70117 59345 0 y
+RawACCData_c15a5d15-bbb1-411d-8d91-89543c6c419c.dat 32 100000(0)/g 32 0 53418 60532 0 z
+RawACCData_c15a5d15-bbb1-411d-8d91-89543c6c419c.dat 32 1(0)/No_Unit 32 0 1 34677 0 label
+# Label mapping: {'lying': 0, 'sitting': 1, 'standing': 2, 'walking': 3, 'jogging': 4, 'sitting_activity': 5, 'standing_activity': 6}
+# Start time: 1682080775447 ms

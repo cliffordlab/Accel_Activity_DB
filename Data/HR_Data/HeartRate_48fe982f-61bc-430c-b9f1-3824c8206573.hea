@@ -1,0 +1,5 @@
+HeartRate_48fe982f-61bc-430c-b9f1-3824c8206573 3 1 1504
+HeartRate_48fe982f-61bc-430c-b9f1-3824c8206573.dat 32 1(0)/No_Unit 32 0 72073030 40599 0 packet_id
+HeartRate_48fe982f-61bc-430c-b9f1-3824c8206573.dat 32 1(0)/ms 32 0 1 16212 0 time_index
+HeartRate_48fe982f-61bc-430c-b9f1-3824c8206573.dat 32 100(0)/bpm 32 0 8000 10900 0 heart_rate
+# Start time: 1681842480658 ms

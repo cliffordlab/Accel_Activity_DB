@@ -1,0 +1,5 @@
+HeartRate_aed039e9-dd10-47bd-8398-8b9e1f2cd0f9 3 1 1500
+HeartRate_aed039e9-dd10-47bd-8398-8b9e1f2cd0f9.dat 32 1(0)/No_Unit 32 0 47731596 2250 0 packet_id
+HeartRate_aed039e9-dd10-47bd-8398-8b9e1f2cd0f9.dat 32 1(0)/ms 32 0 1 11638 0 time_index
+HeartRate_aed039e9-dd10-47bd-8398-8b9e1f2cd0f9.dat 32 100(0)/bpm 32 0 6600 57292 0 heart_rate
+# Start time: 1690313460114 ms

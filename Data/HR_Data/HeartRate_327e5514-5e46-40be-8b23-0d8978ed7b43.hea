@@ -1,0 +1,5 @@
+HeartRate_327e5514-5e46-40be-8b23-0d8978ed7b43 3 1 4059
+HeartRate_327e5514-5e46-40be-8b23-0d8978ed7b43.dat 32 1(0)/No_Unit 32 0 57363640 41981 0 packet_id
+HeartRate_327e5514-5e46-40be-8b23-0d8978ed7b43.dat 32 1(0)/ms 32 0 1 47768 0 time_index
+HeartRate_327e5514-5e46-40be-8b23-0d8978ed7b43.dat 32 100(0)/bpm 32 0 9000 2800 0 heart_rate
+# Start time: 1681930560117 ms

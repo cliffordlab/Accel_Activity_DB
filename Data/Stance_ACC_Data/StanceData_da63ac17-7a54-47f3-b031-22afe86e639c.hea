@@ -1,0 +1,9 @@
+StanceData_da63ac17-7a54-47f3-b031-22afe86e639c 6 50 15315
+StanceData_da63ac17-7a54-47f3-b031-22afe86e639c.dat 32 1(0)/No_Unit 32 0 47952554 41630 0 packet_id
+StanceData_da63ac17-7a54-47f3-b031-22afe86e639c.dat 32 1(0)/ms 32 0 1 15271 0 time_index
+StanceData_da63ac17-7a54-47f3-b031-22afe86e639c.dat 32 100000(0)/g 32 0 -40332 15309 0 x
+StanceData_da63ac17-7a54-47f3-b031-22afe86e639c.dat 32 100000(0)/g 32 0 61621 46274 0 y
+StanceData_da63ac17-7a54-47f3-b031-22afe86e639c.dat 32 100000(0)/g 32 0 66162 18291 0 z
+StanceData_da63ac17-7a54-47f3-b031-22afe86e639c.dat 32 1(0)/No_Unit 32 0 1 28578 0 label
+# Label mapping: {'lying': 0, 'sitting': 1, 'standing': 2, 'walking': 3, 'jogging': 4}
+# Start time: 1682013207963 ms

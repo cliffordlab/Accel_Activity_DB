@@ -1,0 +1,5 @@
+HeartRate_5ae8c7ef-ded7-4b57-a577-b41e6466469e 3 1 2311
+HeartRate_5ae8c7ef-ded7-4b57-a577-b41e6466469e.dat 32 1(0)/No_Unit 32 0 97293952 47255 0 packet_id
+HeartRate_5ae8c7ef-ded7-4b57-a577-b41e6466469e.dat 32 1(0)/ms 32 0 1 29364 0 time_index
+HeartRate_5ae8c7ef-ded7-4b57-a577-b41e6466469e.dat 32 100(0)/bpm 32 0 -40100 38032 0 heart_rate
+# Start time: 1682014025703 ms

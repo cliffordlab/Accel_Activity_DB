@@ -1,0 +1,5 @@
+HeartRate_5f672d7b-f81a-4017-9f0d-5ca1171c0257 3 1 3559
+HeartRate_5f672d7b-f81a-4017-9f0d-5ca1171c0257.dat 32 1(0)/No_Unit 32 0 73189128 12585 0 packet_id
+HeartRate_5f672d7b-f81a-4017-9f0d-5ca1171c0257.dat 32 1(0)/ms 32 0 1 43564 0 time_index
+HeartRate_5f672d7b-f81a-4017-9f0d-5ca1171c0257.dat 32 100(0)/bpm 32 0 7200 5728 0 heart_rate
+# Start time: 1682003220640 ms
