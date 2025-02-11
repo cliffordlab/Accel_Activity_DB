@@ -1,6 +1,6 @@
 # Activity Classification from Triaxial Accelerometry in an Ambulatory Setting
 
-This repository contains code and data for classifying patient activity using 50Hz triaxial accelerometry sensor data and heart rate data sampled at 1Hz, collected from 23 healthy subjects performing five distinct activities: lying, sitting, standing, walking, and jogging. The data is complemented with heart rate data collected using an ambulatory device. The repository includes two classification models: a binary high/low activity classifier based on signal processing techniques and a multi-class convolutional neural network (CNN) model for classifying the five activities.
+This repository contains code and data for classifying patient activity using 50Hz triaxial accelerometry sensor data and heart rate data sampled at 1Hz, collected from 23 healthy subjects performing five distinct activities: lying, sitting, standing, walking, and jogging. The data is complemented with heart rate data collected using an ambulatory device. The repository includes two classification models: a binary high/low activity classifier based on signal processing techniques; and a multi-class convolutional neural network (CNN) model for classifying the five activities.
 
 ### Data
 
@@ -24,7 +24,8 @@ The code and data are available under a BSD 3-Clause open-source license. See th
 ### Citation
 
 The paper describing the code and data is included in the Documents folder. If you use this code or data in your research, please cite the paper as follows:
-Nikookar, S., Tian, E., Hoffman, H., Parks, M., McKay, J.L., Kiarashi, Y., Thomas, T.T., Hall, A., Wright, D.W. and Clifford, G.D., Activity Classification from Triaxial Accelerometry in an Ambulatory Setting. Physiological Measurement, Accepted March 2025.
+
+**Nikookar, S., Tian, E., Hoffman, H., Parks, M., McKay, J.L., Kiarashi, Y., Thomas, T.T., Hall, A., Wright, D.W. and Clifford, G.D., Activity Classification from Triaxial Accelerometry in an Ambulatory Setting. Physiological Measurement, Accepted March 2025.**
 
 ### Contact
 
