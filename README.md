@@ -19,12 +19,13 @@ The code/ folder contains the following files:
 
 ### License
 
-The code and data are available under an open-source license. See the LICENSE file for details.
+The code and data are available under a BSD 3-Clause open-source license. See the LICENSE file for details.
 
 ### Citation
 
-The paper related to this project is included in the Documents folder. If you use this code or data in your research, please cite the paper. 
+The paper describing the code and data is included in the Documents folder. If you use this code or data in your research, please cite the paper as follows:
+Nikookar, S., Tian, E., Hoffman, H., Parks, M., McKay, J.L., Kiarashi, Y., Thomas, T.T., Hall, A., Wright, D.W. and Clifford, G.D., Activity Classification from Triaxial Accelerometry in an Ambulatory Setting. Physiological Measurement, Accepted March 2025.
 
-### Contac
+### Contact
 
 For any questions or issues, feel free to contact Sepideh Nikookar at: [sepideh.nikookar@emory.edu](mailto:sepideh.nikookar@emory.edu)
