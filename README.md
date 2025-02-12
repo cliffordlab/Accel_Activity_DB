@@ -25,7 +25,7 @@ The code and data are available under a BSD 3-Clause open-source license. See th
 
 The paper describing the code and data is included in the Documents folder. If you use this code or data in your research, please cite the paper as follows:
 
-**Nikookar, S., Tian, E., Hoffman, H., Parks, M., McKay, J.L., Kiarashi, Y., Thomas, T.T., Hall, A., Wright, D.W. and Clifford, G.D., Activity Classification from Triaxial Accelerometry in an Ambulatory Setting. Physiological Measurement, Accepted March 2025.**
+**Nikookar, S., Tian, E., Hoffman, H., Parks, M., McKay, J.L., Kiarashi, Y., Thomas, T.T., Hall, A., Wright, D.W. and Clifford, G.D., Activity Classification from Triaxial Accelerometry in an Ambulatory Setting. Physiological Measurement, Under Review, March 2025.**
 
 ### Contact
 
