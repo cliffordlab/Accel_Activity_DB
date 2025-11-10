@@ -9,6 +9,17 @@ The Data folder contains the following subfolders:
 - **Raw_ACC_Data:** Raw accelerometer data with all activity labels in WFDB format.
 - **Stance_ACC_Data:** Accelerometer data with specific labels for the five activities: lying, sitting, standing, walking, and jogging in WFDB format.
 
+### Sensor setup and axis orientation
+
+- **Device & placement:** VivaLNK VV330 chest patch, placed in Lead II position.
+- **Sampling:** Accelerometry at 50 Hz; heart rate at 1 Hz.
+- **Axis orientation (verified on raw data):**
+  - **X:** along the Lead II diagonal (right shoulder → left lower chest)
+  - **Y:** anterior ↔ posterior (front ↔ back)
+  - **Z:** points inward toward the chest; gravity appears as **+Z ≈ +1 g** when upright
+
+These conventions should be followed when reproducing features, re-training the CNN model, or comparing with external accelerometry datasets.
+
 ### Codes
 
 The code/ folder contains the following files:
